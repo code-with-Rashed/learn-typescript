@@ -1,4 +1,3 @@
-"use strict";
 // Type safe function to add two numbers
 function add(a, b) {
     return a + b;
@@ -45,3 +44,4 @@ const laptop = {
     name: "Dell XPS 13",
     price: 1200,
 };
+export {};

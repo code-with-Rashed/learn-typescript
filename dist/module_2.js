@@ -1,0 +1,13 @@
+const status = "pending";
+const result = "success";
+const anotherResult = "failure";
+const id = 123;
+const anotherId = "abc";
+const upDirection = "up";
+const downDirection = "down";
+const adminRole = "admin";
+const userRole = "user";
+const guestRole = "guest";
+const admin = { id: 1, role: "admin", privileges: ["read", "write"] };
+const member = { id: 1, role: "member", plan: ["basic"] };
+export {};
